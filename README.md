@@ -1,1 +1,1 @@
-clovece-nezlob-se
+Statistická analýza hry človeče nezlob se.
